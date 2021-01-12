@@ -1,5 +1,5 @@
 {
-  "name": "react-playlist",
+  "name": "react-first-attempt",
   "version": "1.0.0",
   "description": "A simple react to-do list",
   "main": "index.js",
@@ -10,17 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/react-playlist.git"
+    "url": "git+https://github.com/DanielRodriguesMoreira/react-first-attempt"
   },
   "keywords": [
     "react"
   ],
-  "author": "The Net Ninja",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/iamshaunjp/react-playlist/issues"
-  },
-  "homepage": "https://github.com/iamshaunjp/react-playlist#readme",
+  "author": "drmoreira",
+  "homepage": "https://github.com/DanielRodriguesMoreira/react-first-attempt#readme",
   "dependencies": {
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
